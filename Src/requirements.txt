@@ -1,0 +1,15 @@
+# For CLI interface
+click
+click-shell
+
+# For image processing
+numpy
+pillow
+pytesseract
+opencv-python
+python-resize-image
+
+# For vnc connection
+twisted
+vncdotool
+zope.interface

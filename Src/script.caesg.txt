@@ -1,0 +1,5 @@
+connect --host 192.168.0.5 --password admin$ --display 1
+typekeys --string=ls
+pressenter
+screenshot
+exit

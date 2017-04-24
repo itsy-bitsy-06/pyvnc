@@ -1,0 +1,11 @@
+/Include/
+/Lib/
+/LICENSE-3RD-PARTY.txt
+/LICENSE.txt
+/pip-selfcheck.json
+/Scripts/
+/tcl/
+
+*.pyc
+__pycache__
+.idea/
